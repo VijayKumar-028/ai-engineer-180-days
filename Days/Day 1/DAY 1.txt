@@ -1,0 +1,81 @@
+💻 3. Practical — Part A
+
+After learning the concepts, open VS Code / your Python environment and write these yourself.
+
+Task 1 — Personal information
+
+Create variables for:
+
+name
+age
+college
+branch
+percentage
+
+Then print them nicely.
+
+Task 2 — Calculator
+
+Take two numbers from the user and print:
+
+addition
+subtraction
+multiplication
+division
+remainder
+
+Example:
+
+Enter first number: 20
+Enter second number: 6
+
+Addition: 26
+Subtraction: 14
+Multiplication: 120
+Division: 3.33
+Remainder: 2
+
+Don't copy this code from anywhere.
+
+Task 3 — AI-themed mini program 🤖
+
+Create a program that asks:
+
+What is your name?
+How many hours can you study today?
+What AI topic are you learning?
+
+Then produce something like:
+
+Hey Vijay!
+You have 4 hours available today.
+Today's topic is Python.
+Let's start building! 🚀
+
+This is deliberately simple—we're building your programming muscle first.
+
+🧠 4. Practical — Part B
+
+Now test whether you actually understood the concepts.
+
+Without looking at your previous code, create:
+
+Challenge 1
+
+Convert Celsius → Fahrenheit.
+
+Challenge 2
+
+Calculate the area of a circle.
+
+Challenge 3
+
+Take a student's marks in 5 subjects and calculate:
+
+total + average + percentage
+
+Challenge 4
+
+Take a number of seconds and convert it into:
+
+hours + minutes + seconds
