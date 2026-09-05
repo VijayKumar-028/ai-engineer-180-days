@@ -1,3 +1,4 @@
+#A basic calculator
 number1=int(input("Enter the number1:"))
 number2=int(input("Enter the number2:"))
 
